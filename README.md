@@ -9,7 +9,7 @@ This project will rely on a [drive folder](https://drive.google.com/drive/folder
 
 ## The semantic network project
 
-This group is focused on the semantic and sentiment of the text corpus.
+This group is focused on the semantic and sentiment anlysis of the text corpus.
 
 Members: 
 

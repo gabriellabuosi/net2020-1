@@ -1,2 +1,2 @@
 # net2020
-Group projects of Social Network Analysis, an interdisciplinary course of the University of Padova.
+Interdisciplinary projects of Social Network Analysis course, University of Padova.

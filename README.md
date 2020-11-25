@@ -7,6 +7,10 @@ The analysis are based on the database collected and coded by Amnesty Internatio
 The full database is not available to the public. You can request to use it for research purposes at Amnesty International.
 This project will rely on a [drive folder](https://drive.google.com/drive/folders/1zwXprmJgb6MEf1bFNjTDd_gHFF-fVIRE?usp=sharing) with the not public files, only available to the members of the groups. 
 
+
+# common start
+
+
 ## The semantic network project
 
 This group is focused on the semantic and sentiment anlysis of the text corpus.

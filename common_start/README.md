@@ -31,6 +31,6 @@ For semantic network group
 
 For post network group
 - try to understand how much content we have for the most relevant subsets. How many hate speech comments (``` comDB.loc[comDB['c_rating'] == 'hate']```) do we have? How many politicians do we have? How many comments for each political party has been collected? 
-- you could try to use the information in the columns with the sentiment analysis values (they are at the end of the df, from ```c_WC``` till the end). Each comment has a value from 0 to 100, representing a specif sentiment. For example, the variable ```c_Emo_Neg```tells us the level of negative emotions detected in the comment, ```p_Emo_Neg``` tell us the same thing for the post. What is the average sentiment of the negative emotions in the politicians' posts? And which one is the average of negative emotions along with all the comments? 
+- you could try to use the information in the columns with the sentiment analysis values (they are at the end of the df, from ```c_WC``` till the end). Each comment has a value from 0 to 100, representing a specif sentiment. For example, the variable ```c_Emo_Neg```tells us the level of negative emotions detected in the comment, ```p_Emo_Neg``` tell us the same thing for the posts. What is the average sentiment of the negative emotions in the politicians' posts? And which one is the average of negative emotions along with all the comments? 
 
 Have fun!

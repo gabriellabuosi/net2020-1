@@ -23,7 +23,7 @@ Members:
 ---> write your name and link your Github repository, so the other colleagues will be able to watch your progress on the code and maybe take inspiration <-- 
 
 
-## The content network project 
+## The post network project 
 
 This group is focused on the post/tweet/comment network.
 

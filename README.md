@@ -8,7 +8,11 @@ The full database is not available to the public. You can request to use it for 
 This project will rely on a [drive folder](https://drive.google.com/drive/folders/1zwXprmJgb6MEf1bFNjTDd_gHFF-fVIRE?usp=sharing) with the not public files, only available to the members of the groups. 
 
 
-# common start
+# Week 1 - common start
+In the first week (from 23/11/20202 to 04/11/2020), we will work all together as one big group.
+Because we already have a ready-made database, we will "play with data" to understand all the features we can use in the next part of the project.
+Go to the folder on this repository '''common start''', you will find more details on what to do. 
+
 
 
 ## The semantic network project
@@ -16,6 +20,7 @@ This project will rely on a [drive folder](https://drive.google.com/drive/folder
 This group is focused on the semantic and sentiment anlysis of the text corpus.
 
 Members: 
+---> write your name and link your Github repository, so the other colleagues will be able to watch your progress on the code and maybe take inspiration <-- 
 
 
 ## The content network project 
@@ -23,5 +28,6 @@ Members:
 This group is focused on the post/tweet/comment network.
 
 Members: 
+---> write your name and link your Github repository, so the other colleagues will be able to watch your progress on the code and maybe take inspiration <-- 
 
 

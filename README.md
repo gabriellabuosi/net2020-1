@@ -20,7 +20,7 @@ Go to the folder on this repository ```common start```, you will find more detai
 This group is focused on the semantic and sentiment anlysis of the text corpus.
 
 Members: 
-Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, Natascia Caria, Lynda Wainaina, Baran Karakaya.
+Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, [Natascia Caria](https://github.com/Nat-aho/net2020), Lynda Wainaina, Baran Karakaya.
 
 ## The post network project 
 

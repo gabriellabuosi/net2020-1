@@ -20,14 +20,12 @@ Go to the folder on this repository ```common start```, you will find more detai
 This group is focused on the semantic and sentiment anlysis of the text corpus.
 
 Members: 
----> write your name and link your Github repository, so the other colleagues will be able to watch your progress on the code and maybe take inspiration <-- 
-
+Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, Natascia Caria, Lynda Wainaina, Baran Karakaya.
 
 ## The post network project 
 
 This group is focused on the post/tweet/comment network.
 
 Members: 
----> write your name and link your Github repository, so the other colleagues will be able to watch your progress on the code and maybe take inspiration <-- 
-
+Francesco Guarnaccia, Gabriella Buosi, Edoardo Monaco, Luca dalla Gassa, Laura Soccol, Matteo piva, Arthur Tassan-mazzocco.
 

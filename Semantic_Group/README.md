@@ -8,7 +8,7 @@ Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, Natascia Caria, Lynda Wainain
 ## TimeTable
 
 ### Week 1 (7-13 dic)
-Text cleaning (post and comments):
+1) Text cleaning (post and comments):
 - format the charachters
 - removing punctuations
 - tokenization
@@ -17,21 +17,24 @@ Text cleaning (post and comments):
 
 Challege: we need to use NLTK with **italian dictionary**
 
+2) Sentiment Analysis
+We will have to use the LIWC sentiment dictionary to attribute  value 
+
 ### Week 2 (14-20 dic)
-Sentiment 
+
 
 ### Week 3 (21-3 jan)
-Holydays!
+<<Holydays!>>
 
 ### Week 4 (4-10 jan)
-Report and Presentation writing  
+  
 
 
 ### Week 5 (11-17 jan)
 
 
 ### Week 6 (18-24 jan)
-
+Report and Presentation writing
 
 ### final Exams
 date: ____

@@ -6,13 +6,24 @@ Members:
 Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, Natascia Caria, Lynda Wainaina, Baran Karakaya.
 
 
-####1 week 7-13 dic
+#### week1 7-13 dic
+Text cleaning (post and comments):
+- format the charachters
+- removing punctuations
+- tokenization
+- stop words removal
+- lemmizzation and stemming 
 
-####1 week 14-20 dic
+Challege: we need to use NLTK with **italian dictionary**
 
-####1 week 21- 27 dic
+#### week2 14-20 dic
+Sentiment 
 
-####1 week 28-3 jan
+#### week3 21 dic - 3 jan
+Holydays!
 
-####1 week 4-10 jan
+#### week5 4-10 jan
+Report and Presentation writing  
 
+#### final exams
+date: ____

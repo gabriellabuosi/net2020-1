@@ -7,7 +7,7 @@ Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, Natascia Caria, Lynda Wainain
 
 ## TimeTable
 
-### week1 7-13 dic
+### Week 1 (7-13 dic)
 Text cleaning (post and comments):
 - format the charachters
 - removing punctuations
@@ -17,21 +17,21 @@ Text cleaning (post and comments):
 
 Challege: we need to use NLTK with **italian dictionary**
 
-### week2 14-20 dic
+### Week 2 (14-20 dic)
 Sentiment 
 
-### week3 21 dic - 3 jan
+### Week 3 (21-3 jan)
 Holydays!
 
-### week4 4-10 jan
+### Week 4 (4-10 jan)
 Report and Presentation writing  
 
 
-### week5 11-17 jan
+### Week 5 (11-17 jan)
 
 
-### week5 18-24 jan
+### Week 6 (18-24 jan)
 
 
-### final exams
+### final Exams
 date: ____

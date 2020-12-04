@@ -17,17 +17,9 @@ Diego pilutti, Yasmine Elkhaloufi, Andrea Nicolai, Natascia Caria, Lynda Wainain
 
 Challege: we need to use NLTK with **italian dictionary**
 
-
-row1 --> (dog, take...) | salvini |...
-
-2) Sentiment Analysis
-
-We will have to use the LIWC sentiment dictionary to attribute  value 
-
-dog | neg_emo= 0-100| 
-
 ### Week 2 (14-20 dic)
-create the network
+1) Network creation: "create the matrix"
+![alt text](https://upload.wikimedia.org/wikipedia/de/thumb/2/20/Matrix-logo.svg/1200px-Matrix-logo.svg.png)
 
 ### Week 3 (21-3 jan)
 <<Holydays!>>

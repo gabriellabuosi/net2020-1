@@ -19,9 +19,7 @@ Challege: we need to use NLTK with **italian dictionary**
 
 ### Week 2 (14-20 dic)
 1) Network creation: "create the matrix"
-![alt text](https://upload.wikimedia.org/wikipedia/de/thumb/2/20/Matrix-logo.svg/1200px-Matrix-logo.svg.png)
-
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/2/20/Matrix-logo.svg/1200px-Matrix-logo.svg.png" width="350" title="hover text">
 </p>
 

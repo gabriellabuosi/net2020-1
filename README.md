@@ -29,5 +29,7 @@ This group is focused on the post/tweet/comment network.
 Members: 
 Francesco Guarnaccia, Gabriella Buosi, Edoardo Monaco, Luca dalla Gassa, Laura Soccol, Matteo piva, Arthur Tassan-mazzocco.
 
-![hate_speech](https://sites.les.univr.it/cybercrime/wp-content/uploads/2017/08/hate-speech.jpg)
 
+<p align="center">
+    <img src="https://sites.les.univr.it/cybercrime/wp-content/uploads/2017/08/hate-speech.jpg" width="350" alt="accessibility text">
+</p>

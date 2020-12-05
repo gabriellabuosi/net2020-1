@@ -17,7 +17,7 @@ Francesco Guarnaccia, Gabriella Buosi, Edoardo Monaco, Luca dalla Gassa, Laura S
 1) Network creation: "create the matrix"
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/2/20/maMatrix-logo.svg/1200px-Matrix-logo.svg.png" width="350" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/2/20/Matrix-logo.svg/1200px-Matrix-logo.svg.png" width="350" title="hover text">
 </p>
 
 ### Week 2 (14-20 dic)

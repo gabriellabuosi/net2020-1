@@ -25,6 +25,7 @@ Network creation: "create the matrix"
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/2/20/Matrix-logo.svg/1200px-Matrix-logo.svg.png" width="350" title="hover text">
 </p>
+
 Using ```networkX``` create links between words and plot some initial graphs.
 
 ### Week 2 (14-20 dic)
